@@ -1,0 +1,3 @@
+rootProject.name = 'mtn_loc'
+
+include ':app'
